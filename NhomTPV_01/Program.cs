@@ -6,6 +6,7 @@ namespace NhomTPV_01
     {
         static void Main(string[] args)
         {
+            //Command Code
             Console.WriteLine("Hello World!");
         }
     }
